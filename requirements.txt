@@ -1,0 +1,14 @@
+python==3.10
+
+# PySpark / Spark ecosystem
+pyspark>=3.4.0
+
+# Databricks utilities
+databricks-cli>=0.18.0
+
+# Machine Learning
+numpy>=1.23.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
